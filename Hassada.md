@@ -1,9 +1,0 @@
-
-<html>
-<head>
-</head>
-<body>
-<CENTER> นาย หัสดาพร เย็นต่อม <CENTER><br>
-<a href="http://www.mx7.com/view2/A4ZkH4uF5DUnxyPa" target="_blank"><img border="0" src="http://www.mx7.com/i/158/ID9dMk.jpg" /></a>
-</body>
-</html>
